@@ -4,7 +4,7 @@ title: "MUGA LAB — Model Understanding and Generative Alignment Laboratory"
 description: "Research Repository, Reference Hub, and Prompt Engineering Framework"
 ---
 
-# 🧠 Model Understanding and Generative Alignment Laboratory (MUGA LAB)
+## 🧠 Model Understanding and Generative Alignment Laboratory (MUGA LAB)
 
 **Research Repository, Reference Hub, and Prompt Engineering Framework**
 
