@@ -36,8 +36,7 @@ Together, these frameworks support the design of interpretable, trustworthy, and
 
 ## 🧾 Citation
 
-> **MUGA LAB (2025).**  
-> *Model Understanding and Generative Alignment.*  
+> MUGA LAB (2025). Model Understanding and Generative Alignment.
 > MUGA LAB Reference Series, October 2025.  
 > [https://lexmuga.github.io/mugalab/references/2025-model-understanding](https://lexmuga.github.io/mugalab/references/2025-model-understanding)
 
