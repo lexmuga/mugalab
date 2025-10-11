@@ -98,6 +98,7 @@ All workflows adhere to the **MUGA Reproducibility Framework**, ensuring determi
 
 ## 🧱 Repository Structure
 
+```
 mugalab/
 ├── README.md
 ├── index.md
@@ -111,7 +112,7 @@ mugalab/
 │       └── scripts/
 ├── assets/
 │   └── images/
-
+```
 
 ---
 
