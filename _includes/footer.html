@@ -1,4 +1,9 @@
-<footer style="text-align:center; font-size:0.9em; margin-top:2em;">
+<footer class="mugalab-footer">
   <hr>
-  <p>&copy; 2025 MUGA LAB — Model Understanding and Generative Alignment Laboratory</p>
+  <p>&copy; <span id="year"></span> MUGA LAB — Model Understanding and Generative Alignment Laboratory</p>
 </footer>
+
+<script>
+  // Dynamically insert the current year
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
