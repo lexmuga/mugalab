@@ -1,0 +1,88 @@
+# ======================================================
+# MUGA LAB GitHub Pages Configuration
+# ======================================================
+
+title: "MUGA LAB"
+description: "Model Understanding and Generative Alignment Laboratory — Research References and Prompt Engineering Framework"
+baseurl: "/mugalab"        # keep this for https://lexmuga.github.io/mugalab
+url: "https://lexmuga.github.io"
+theme: minima
+markdown: kramdown
+repository: "lexmuga/mugalab"
+
+# Optional Google analytics or future extensions
+google_analytics: false
+
+# Author info (displayed in sidebar or footer if supported)
+author:
+  name: "MUGA LAB"
+  email: "mugalab.research@gmail.com"
+  github: "lexmuga"
+
+# Navigation links (top or sidebar)
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "Courses"
+    link: "/courses/"
+  - name: "References"
+    link: "/references/"
+  - name: "Contact"
+    link: "/#contact"
+
+# Optional social icons (used by Minima)
+social_links:
+  github: https://github.com/lexmuga
+  email: mugalab.research@gmail.com
+
+# Markdown rendering options
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Exclusions (keep site lightweight)
+exclude:
+  - README.md
+  - LICENSE
+  - "*.ipynb_checkpoints"
+  - "*.joblib"
+  - "*.pkl"
+  - "*.npy"
+  - environment.yml
+  - requirements.txt
+  - scripts/
+  - helpers/
+  - Artifacts/
+  - tests/
+
+# 🧭 GitHub Pages–Friendly Folder Structure
+
+```
+mugalab/
+│
+├── _config.yml             ← site metadata and navigation
+├── index.md                ← homepage (you already have this)
+├── README.md               ← repository overview (for GitHub viewers)
+│
+├── assets/                 ← static files (images, icons, styles)
+│   ├── images/
+│   │   ├── mugalab_logo.png
+│   │   └── banner.png
+│   └── css/
+│       └── style.scss      ← optional custom CSS (see below)
+│
+├── references/
+│   └── 2025-model-understanding/
+│       └── model_understanding.pdf
+│
+├── courses/
+│   ├── index.md            ← list of available courses (optional)
+│   └── predictive_analytics_for_text/
+│       ├── notebooks/
+│       ├── helpers/
+│       ├── scripts/
+│       └── README.md
+│
+└── assets/css/style.scss   ← optional design customization
+```
