@@ -44,6 +44,7 @@ This repository serves as both a **research archive** and a **pedagogical framew
 
 ## 🧱 Directory Structure
 
+```
 mugalab/
 ├── README.md
 ├── references/
@@ -57,6 +58,7 @@ mugalab/
 ├── assets/
 │   └── images/
 └── index.md          # GitHub Pages homepage
+```
 
 ---
 
