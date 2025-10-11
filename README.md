@@ -44,7 +44,7 @@ This repository serves as both a **research archive** and a **pedagogical framew
 
 ## 🧱 Directory Structure
 
-
+```markdown
 mugalab/
 ├── README.md
 ├── references/
@@ -58,7 +58,7 @@ mugalab/
 ├── assets/
 │   └── images/
 └── index.md          # GitHub Pages homepage
-
+```
 ---
 
 ## 🎓 Active Course: Predictive Analytics for Text (AY 2025–2026)
