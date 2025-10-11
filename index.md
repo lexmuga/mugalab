@@ -1,7 +1,3 @@
----
-title: "MUGA LAB — Model Understanding and Generative Alignment"
-layout: default
----
 
 # 🧠 Model Understanding and Generative Alignment Laboratory (MUGA LAB)
 
