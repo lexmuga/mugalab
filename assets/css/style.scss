@@ -49,3 +49,8 @@ footer {
   border-top: 1px solid #ccc;
   padding-top: 1em;
 }
+
+/* Hide the Minima site header */
+.site-header {
+  display: none;
+}
