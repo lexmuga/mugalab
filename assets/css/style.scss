@@ -1,0 +1,42 @@
+---
+---
+
+@import "minima";
+
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  background-color: #fafafa;
+  color: #222;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+a {
+  color: #0044cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  border-left: 4px solid #0044cc;
+  padding-left: 1em;
+  color: #555;
+  font-style: italic;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 0.5em 0.75em;
+}
