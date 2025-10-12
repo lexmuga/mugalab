@@ -4,16 +4,16 @@ title: "MUGA LAB — Model Understanding and Generative Alignment Laboratory"
 description: "Research Repository, Reference Hub, and Prompt Engineering Framework"
 ---
 
-## 🧠 Model Understanding and Generative Alignment Laboratory (MUGA LAB)
+## Model Understanding and Generative Alignment Laboratory (MUGA LAB)
 
 **Research Repository, Reference Hub, and Prompt Engineering Framework**
 
 Maintained by [@lexmuga](https://github.com/lexmuga)  
-🌐 [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
+[https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
 
 ---
 
-## 🌍 About MUGA LAB
+## About MUGA LAB
 
 **MUGA LAB (Model Understanding and Generative Alignment Laboratory)** explores the intersection of  
 **mathematical interpretability**, **human-aligned generative systems**, and **reproducible AI research**.
@@ -22,16 +22,16 @@ The lab bridges **model understanding** and **alignment** through rigorous, peda
 
 ---
 
-## 🧩 Mission and Focus
+## Mission and Focus
 
-### 🔍 Model Understanding
+### Model Understanding
 > *How can we interpret and explain model behavior transparently?*  
 Research areas:
 - Explainability and feature attribution  
 - Calibration and reliability analysis  
 - Uncertainty estimation (epistemic and aleatoric)
 
-### 🤝 Generative Alignment
+### Generative Alignment
 > *How can models remain ethically and contextually aligned with human intent?*  
 Focus areas:
 - Human-in-the-loop learning and feedback  
@@ -40,7 +40,7 @@ Focus areas:
 
 ---
 
-## 🔬 Research Axes
+## Research Axes
 
 | Axis | Description |
 |------|--------------|
@@ -51,7 +51,7 @@ Focus areas:
 
 ---
 
-## 🧠 Research and Teaching Synergy
+## Research and Teaching Synergy
 
 MUGA LAB serves both as a **research collective** and a **teaching framework**, designed to support:
 
@@ -62,7 +62,7 @@ MUGA LAB serves both as a **research collective** and a **teaching framework**, 
 
 ---
 
-## 📚 Reference Works
+## Reference Works
 
 ### **Model Understanding and Generative Alignment (2025)**
 Foundational MUGA LAB document outlining the theory and pedagogy of interpretability–alignment synergy.  
@@ -73,7 +73,7 @@ Research guide on structured prompt engineering for interpretive reasoning.
 
 ---
 
-## 🎓 Active Course: Predictive Analytics for Text (AY 2025–2026)
+## Active Course: Predictive Analytics for Text (AY 2025–2026)
 
 A modular course exploring **text vectorization**, **embeddings**, and **interpretability**.  
 Includes synchronized Jupyter notebooks covering:
@@ -82,11 +82,11 @@ Includes synchronized Jupyter notebooks covering:
 - Master split generation for reproducibility  
 - Feature analysis using SHAP  
 
-📘 [Explore the course →](courses/predictive_analytics_for_text/)
+[Explore the course →](courses/predictive_analytics_for_text/)
 
 ---
 
-## 🧰 Tools and Frameworks
+## Tools and Frameworks
 
 - **Vectorization:** TF–IDF · Word2Vec · FastText · GloVe  
 - **Optimization:** Optuna · DEHB  
@@ -97,7 +97,7 @@ All workflows adhere to the **MUGA Reproducibility Framework**, ensuring determi
 
 ---
 
-## 🧱 Repository Structure
+## Repository Structure
 
 ```
 mugalab/
@@ -117,7 +117,7 @@ mugalab/
 
 ---
 
-## 🔭 Research Directions
+## Research Directions
 
 | Theme | Example Topics |
 |--------|----------------|
@@ -128,14 +128,14 @@ mugalab/
 
 ---
 
-## ✉️ Contact
+## Contact
 
-📧 **MUGA LAB** — mugalab.research@gmail.com  
-🌐 [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
+**MUGA LAB** — mugalab.research@gmail.com  
+[https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
 
 ---
 
-## 🧩 Citation
+## Citation
 
 If referencing this repository or lab framework:
 
@@ -144,14 +144,14 @@ If referencing this repository or lab framework:
 
 ---
 
-## ⚙️ License
+## License
 
 Released under the **MIT License**.  
 Educational and research reuse encouraged with attribution.
 
 ---
 
-## 🔖 Migration Notice
+## Migration Notice
 
 This site is currently hosted under: https://lexmuga.github.io/mugalab
 
