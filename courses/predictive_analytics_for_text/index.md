@@ -77,9 +77,8 @@ By the end of this course, students will be able to:
 |------------|--------|
 | Chapter Critiques (6 total) | 30% |
 | Long Tests (2) | 30% |
-| Capstone Project | 25% |
-| In-class Labs | 10% |
-| Participation | 5% |
+| Capstone Project | 30% |
+| Assignments | 10% |
 
 ---
 
