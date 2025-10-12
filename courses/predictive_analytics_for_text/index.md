@@ -4,13 +4,13 @@ title: "Predictive Analytics for Text"
 description: "A modular course on text vectorization, embeddings, interpretability, and uncertainty — under the Model Understanding and Generative Alignment Laboratory."
 ---
 
-# 📘 Predictive Analytics for Text
+# Predictive Analytics for Text
 **Model Understanding and Generative Alignment Laboratory (MUGA LAB)**  
 Academic Year 2025–2026  
 
 ---
 
-## 🧭 Overview
+## Overview
 
 **Predictive Analytics for Text** is a modular course exploring supervised learning for text data,  
 with a focus on **interpretability**, **reproducibility**, and **uncertainty estimation**.
@@ -23,7 +23,7 @@ Students will build pipelines for:
 
 ---
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 By the end of this course, students will be able to:
 
@@ -40,7 +40,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## 🗓 Course Schedule
+## Course Schedule
 
 | Week | Topics | Models / Methods |
 |------|---------|------------------|
@@ -60,7 +60,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## 🧰 Tools and Frameworks
+## Tools and Frameworks
 
 | Domain | Libraries |
 |--------|------------|
@@ -71,7 +71,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## 🧮 Assessment Structure
+## Assessment Structure
 
 | Component | Weight |
 |------------|--------|
@@ -82,7 +82,7 @@ By the end of this course, students will be able to:
 
 ---
 
-## 🧩 Capstone Project
+## Capstone Project
 
 **Goal:** Develop a complete text prediction pipeline with interpretability and uncertainty components.  
 
@@ -92,13 +92,13 @@ By the end of this course, students will be able to:
 - Comprehensive interpretability analysis (e.g., SHAP + calibration curves)  
 
 **Deliverables:**
-- 📄 Technical report (5–7 pages)  
-- 🧠 Oral presentation  
-- 💾 Reproducible code and artifacts  
+- Technical report (5–7 pages)  
+- Oral presentation  
+- Reproducible code and artifacts  
 
 ---
 
-## 🧠 Integration with MUGA LAB Framework
+## Integration with MUGA LAB Framework
 
 This course follows the **MUGA LAB Pedagogical Stack**, linking interpretability and alignment through structured pedagogy.
 
@@ -111,7 +111,7 @@ This course follows the **MUGA LAB Pedagogical Stack**, linking interpretability
 
 ---
 
-## 📓 Course Materials
+## Course Materials
 
 | Module | Description | Location |
 |---------|--------------|----------|
@@ -122,10 +122,10 @@ This course follows the **MUGA LAB Pedagogical Stack**, linking interpretability
 
 ---
 
-## 📚 References
+## References
 
 - **MUGA LAB (2025)** — *Model Understanding and Generative Alignment*  
-  [📄 Read Reference PDF](../../references/2025-model-understanding/model_understanding.pdf)
+  [Read Reference PDF](../../references/2025-model-understanding/model_understanding.pdf)
 
 - Additional readings and papers will be announced throughout the course.
 
