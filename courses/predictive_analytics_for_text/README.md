@@ -4,7 +4,7 @@ title: "Predictive Analytics for Text"
 description: "Course module under MUGA LAB — text analytics, embeddings, interpretability, and uncertainty."
 ---
 
-# 📘 Predictive Analytics for Text (MATH 103.1)
+# 📘 Predictive Analytics for Text
 **Model Understanding and Generative Alignment Laboratory (MUGA LAB)**  
 Academic Year 2025–2026
 
