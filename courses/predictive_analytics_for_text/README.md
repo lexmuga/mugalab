@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Predictive Analytics for Text (MATH 103.1)"
+title: "Predictive Analytics for Text"
 description: "Course module under MUGA LAB — text analytics, embeddings, interpretability, and uncertainty."
 ---
 
