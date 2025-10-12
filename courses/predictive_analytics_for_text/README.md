@@ -116,9 +116,9 @@ This course operates within the **MUGA LAB Pedagogical Stack**, integrating:
 
 | Module | Description | Folder |
 |---------|--------------|--------|
-| **Vectorization — Traditional** | Bag-of-Words and TF–IDF workflows | `courses/predictive_analytics_for_text/notebooks/W02_Traditional_Vectorization_v1.1.ipynb` |
-| **Vectorization — Embeddings** | Word2Vec, FastText, GloVe, BayesFlow integration | `courses/predictive_analytics_for_text/notebooks/W02_Embedding_Vectorization_v1.1.ipynb` |
-| **Master Split Generation** | Reproducible train/val/test index generation | `https://github.com/lexmuga/mugalab/blob/main/courses/predictive_analytics_for_text/scripts/generate_master_split.py` |
+| **Vectorization — Traditional** | Bag-of-Words and TF–IDF workflows | `/courses/predictive_analytics_for_text/notebooks/W02_Traditional_Vectorization_v1.1.ipynb` |
+| **Vectorization — Embeddings** | Word2Vec, FastText, GloVe, BayesFlow integration | `/courses/predictive_analytics_for_text/notebooks/W02_Embedding_Vectorization_v1.1.ipynb` |
+| **Master Split Generation** | Reproducible train/val/test index generation | `/courses/predictive_analytics_for_text/scripts/generate_master_split.py` |
 | **Indexing & Preprocessing Helpers** | Text and split utilities | `/helpers/` |
 
 ---
