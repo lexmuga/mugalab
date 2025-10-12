@@ -9,7 +9,7 @@
 
 ---
 
-## 🌍 Overview
+## Overview
 
 The **Model Understanding and Generative Alignment Laboratory (MUGA LAB)** is a research and teaching initiative exploring the **mathematics of interpretability**, **human-aligned generative systems**, and **reproducible AI research**.
 
