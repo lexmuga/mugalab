@@ -4,13 +4,13 @@ title: "Predictive Analytics for Text"
 description: "Course module under MUGA LAB — text analytics, embeddings, interpretability, and uncertainty."
 ---
 
-# 📘 Predictive Analytics for Text
+# Predictive Analytics for Text
 **Model Understanding and Generative Alignment Laboratory (MUGA LAB)**  
 Academic Year 2025–2026
 
 ---
 
-## 🧭 Course Overview
+## Course Overview
 
 **Predictive Analytics for Text** introduces supervised learning techniques for **text-based prediction**,  
 emphasizing **reproducibility**, **interpretability**, and **uncertainty estimation**.  
@@ -24,7 +24,7 @@ Students learn to:
 
 ---
 
-## 🎯 Course Objectives
+## Course Objectives
 
 By the end of the course, students should be able to:
 
@@ -41,7 +41,7 @@ By the end of the course, students should be able to:
 
 ---
 
-## 🗓 Weekly Schedule
+## Weekly Schedule
 
 | Week | Topics | Key Models / Methods |
 |------|---------|----------------------|
@@ -61,7 +61,7 @@ By the end of the course, students should be able to:
 
 ---
 
-## 🧰 Tools and Frameworks
+## Tools and Frameworks
 
 | Domain | Libraries / Tools |
 |---------|-------------------|
@@ -72,7 +72,7 @@ By the end of the course, students should be able to:
 
 ---
 
-## 🧮 Assessment Breakdown
+## Assessment Breakdown
 
 | Component | Weight |
 |------------|--------|
@@ -83,7 +83,7 @@ By the end of the course, students should be able to:
 
 ---
 
-## 🧩 Capstone Project
+## Capstone Project
 
 Each student (or team) develops an **end-to-end predictive pipeline** for text data.
 
@@ -99,7 +99,7 @@ Each student (or team) develops an **end-to-end predictive pipeline** for text d
 
 ---
 
-## 🧠 Alignment with MUGA LAB Framework
+## Alignment with MUGA LAB Framework
 
 This course operates within the **MUGA LAB Pedagogical Stack**, integrating:
 
@@ -112,7 +112,7 @@ This course operates within the **MUGA LAB Pedagogical Stack**, integrating:
 
 ---
 
-## 📚 Related Notebooks
+## Related Notebooks
 
 | Module | Description | Folder |
 |---------|--------------|--------|
@@ -123,9 +123,9 @@ This course operates within the **MUGA LAB Pedagogical Stack**, integrating:
 
 ---
 
-## ✉️ Contact
+## Contact
 
-📧 **MUGA LAB** — mugalab.research@gmail.com  
-🌐 [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
+**MUGA LAB** — mugalab.research@gmail.com  
+[https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
 
 ---
