@@ -9,12 +9,12 @@ Undergraduate Program in **BS Applied Mathematics (Data Science Track)**
 ## About
 
 This repository hosts the **MUGA LAB Undergraduate Research Framework** —  
-a reproducible, modular, and MLflow-tracked platform for studying  
-**Calibration**, **Distillation**, and **Interpretability** in  
-**Modern Non-Image Neural Networks** (e.g., MLPs, Transformers for tabular and text data).
+a reproducible, modular, and MLflow-tracked platform for studying **Calibration**, **Distillation**, 
+and **Interpretability** in **Modern Non-Image Neural Networks** (e.g., MLPs, Transformers for tabular 
+and text data).
 
-The framework provides all core experiment scripts, metrics, visualization utilities,
-and reporting tools needed for conducting undergraduate theses in Data Science.
+The framework provides all core experiment scripts, metrics, visualization utilities, and reporting 
+tools needed for conducting undergraduate theses in Data Science.
 
 ---
 
