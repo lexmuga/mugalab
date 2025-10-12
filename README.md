@@ -1,11 +1,11 @@
-# 🧠 MUGA LAB  
+# MUGA LAB  
 ### *Model Understanding and Generative Alignment Laboratory*  
 **Research Repository, Reference Hub, and Prompt Engineering Framework**
 
 ---
 
 ### Maintained by: [@lexmuga](https://github.com/lexmuga)  
-🌐 **Website:** [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
+**Website:** [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
 
 ---
 
@@ -19,30 +19,30 @@ This repository serves as both a **research archive** and a **pedagogical framew
 
 ---
 
-## 🧩 Repository Contents
+## Repository Contents
 
 | Category | Description |
 |-----------|-------------|
-| 📚 **References** | Foundational research documents and MUGA LAB whitepapers |
-| 🧮 **Prompt Engineering Frameworks** | Modular templates for LLM-driven teaching and analysis |
-| 🧠 **Notebooks & Demos** | Interactive examples in text vectorization, interpretability, and alignment |
-| 🧰 **Helper Modules** | Utilities for text preprocessing, embeddings, indexing, and reproducibility |
-| 🌐 **GitHub Pages Site** | Public web interface served via `https://lexmuga.github.io/mugalab` |
+| **References** | Foundational research documents and MUGA LAB whitepapers |
+| **Prompt Engineering Frameworks** | Modular templates for LLM-driven teaching and analysis |
+| **Notebooks & Demos** | Interactive examples in text vectorization, interpretability, and alignment |
+| **Helper Modules** | Utilities for text preprocessing, embeddings, indexing, and reproducibility |
+| **GitHub Pages Site** | Public web interface served via `https://lexmuga.github.io/mugalab` |
 
 ---
 
-## 🧾 Key References
+## Key References
 
 - **Model Understanding and Generative Alignment (2025)**  
   Foundational MUGA LAB reference outlining interpretability–alignment synergy.  
-  [📄 View PDF](https://lexmuga.github.io/mugalab/references/2025-model-understanding/model_understanding.pdf)
+  [View PDF](https://lexmuga.github.io/mugalab/references/2025-model-understanding/model_understanding.pdf)
 
 - **Prompt Engineering and Pedagogical Design (forthcoming)**  
   Reference series on designing prompts for mathematical and interpretive reasoning.  
 
 ---
 
-## 🧱 Directory Structure
+## Directory Structure
 
 ```markdown
 mugalab/
@@ -61,7 +61,7 @@ mugalab/
 ```
 ---
 
-## 🎓 Active Course: Predictive Analytics for Text (AY 2025–2026)
+## Active Course: Predictive Analytics for Text (AY 2025–2026)
 
 A modular course on **text vectorization, embeddings, and model interpretability**.  
 Includes synchronized Jupyter notebooks for:
@@ -69,11 +69,11 @@ Includes synchronized Jupyter notebooks for:
 - Master split generation for reproducibility  
 - Interpretability and SHAP analysis  
 
-📘 [Access the course here →](courses/predictive_analytics_for_text/)
+[Access the course here →](courses/predictive_analytics_for_text/)
 
 ---
 
-## 🧰 Tools and Frameworks
+## Tools and Frameworks
 
 - **Vectorization:** TF–IDF, Word2Vec, FastText, GloVe  
 - **Optimization:** Optuna, DEHB  
@@ -84,7 +84,7 @@ Each lab notebook is aligned with the **MUGA Reproducibility Framework**, ensuri
 
 ---
 
-## 🔍 Research Directions
+## Research Directions
 
 | Theme | Description |
 |--------|--------------|
@@ -102,7 +102,7 @@ Each lab notebook is aligned with the **MUGA Reproducibility Framework**, ensuri
 
 ---
 
-### 🧩 Citation
+### Citation
 
 If you reference this work or use it in educational materials:
 
@@ -111,14 +111,14 @@ If you reference this work or use it in educational materials:
 
 ---
 
-### ⚙️ License
+### License
 
 Distributed under the **MIT License**.  
 Educational and research reuse encouraged with attribution.
 
 ---
 
-### 🔖 Note on Migration
+### Note on Migration
 
 This repository is currently served under:  
 `https://lexmuga.github.io/mugalab`  
