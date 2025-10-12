@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Predictive Analytics for Text (MATH 103.1)"
+title: "Predictive Analytics for Text"
 description: "A modular course on text vectorization, embeddings, interpretability, and uncertainty — under the Model Understanding and Generative Alignment Laboratory."
 ---
 
