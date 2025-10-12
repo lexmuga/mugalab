@@ -117,7 +117,7 @@ This course follows the **MUGA LAB Pedagogical Stack**, linking interpretability
 |---------|--------------|----------|
 | **Traditional Vectorization** | TF–IDF and Bag-of-Words workflows | [`/notebooks/traditional_vectorization.ipynb`](notebooks/traditional_vectorization.ipynb) |
 | **Embedding Vectorization** | Word2Vec, FastText, GloVe, BayesFlow | [`/notebooks/embedding_vectorization.ipynb`](notebooks/embedding_vectorization.ipynb) |
-| **Master Split Generation** | Reproducible train/val/test split indices | [`/scripts/generate_master_split.py`](scripts/generate_master_split.py) |
+| **Master Split Generation** | Reproducible train/val/test split indices | [`/scripts/generate_master_split.py`](courses/predictive_analytics_for_text/scripts/generate_master_split.py/) |
 | **Helper Modules** | Preprocessing and indexing utilities | [`/helpers/`](helpers/) |
 
 ---
