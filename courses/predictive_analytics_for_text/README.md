@@ -130,11 +130,3 @@ This course operates within the **MUGA LAB Pedagogical Stack**, integrating:
 🌐 [https://lexmuga.github.io/mugalab](https://lexmuga.github.io/mugalab)
 
 ---
-
-<footer style="text-align:center; font-size:0.9em; margin-top:2em;">
-  <hr>
-  <p>&copy; <span id="year"></span> MUGA LAB — Model Understanding and Generative Alignment Laboratory</p>
-</footer>
-<script>
-  document.getElementById("year").textContent = new Date().getFullYear();
-</script>
