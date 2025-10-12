@@ -91,7 +91,7 @@ predictive models for real-world, non-image datasets.
 
 ---
 
-## 🧩 Tools and Technologies
+## Tools and Technologies
 
 | Component | Description |
 |------------|-------------|
@@ -103,7 +103,7 @@ predictive models for real-world, non-image datasets.
 
 ---
 
-## 🧮 Workflow Overview
+##  Workflow Overview
 
 The MUGA LAB pipeline supports the following reproducible stages:
 
