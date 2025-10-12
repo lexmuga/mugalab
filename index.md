@@ -66,7 +66,7 @@ MUGA LAB serves both as a **research collective** and a **teaching framework**, 
 
 ### **Model Understanding and Generative Alignment (2025)**
 Foundational MUGA LAB document outlining the theory and pedagogy of interpretability–alignment synergy.  
-[📄 Read PDF →](references/2025-model-understanding/model_understanding.pdf)
+[Read PDF →](references/2025-model-understanding/model_understanding.pdf)
 
 ### **Prompt Engineering and Pedagogical Design** *(forthcoming)*
 Research guide on structured prompt engineering for interpretive reasoning.
