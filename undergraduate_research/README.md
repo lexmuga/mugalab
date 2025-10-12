@@ -121,7 +121,7 @@ Supporting modules:
 
 ---
 
-## Recruitment Information (2025–2026 Cohort)
+## Recruitment Information (2026–2027 Cohort)
 
 MUGA LAB will open **undergraduate research slots** for  
 **BS Applied Mathematics (Data Science track)** students interested in:
